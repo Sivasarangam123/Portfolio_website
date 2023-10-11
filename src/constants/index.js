@@ -20,7 +20,8 @@ import {
     starbucks,
     tesla,
     shopify,
-  carrent,
+    carrent,
+    liveserver,
   
    jobit,
    card,
@@ -201,7 +202,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Card",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -219,10 +220,12 @@ import {
         },
       ],
       image: card,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Sivasarangam123/webProjects/tree/master/src/components/Card",
+      figma_code_link: "https://www.figma.com/file/g1W4keZWX0MzICYuBh6cqC/Untitled?node-id=0%3A1&mode=dev",
+      liveserver_code_link :"https://www.figma.com/file/g1W4keZWX0MzICYuBh6cqC/Untitled?node-id=0%3A1&mode=dev"
     },
     {
-      name: "Job IT",
+      name: "Rating",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -239,8 +242,10 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: carrent,
+      source_code_link: "https://github.com/Sivasarangam123/webProjects/tree/master/src/components/StarRate",
+      figma_code_link:"https://www.figma.com/file/C6oc5USrvW2p0xx2wDrwSg/carrent?node-id=0%3A1&mode=dev",
+      liveserver_code_link :"https://www.figma.com/file/g1W4keZWX0MzICYuBh6cqC/Untitled?node-id=0%3A1&mode=dev"
     },
     {
       name: "Trip Guide",
@@ -261,7 +266,134 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Sivasarangam123/webProjects/tree/master/src/components/Uidaily",
+      figma_code_link:"https://www.figma.com/file/sDuQzealfc0zkTtWA2J8aK/tripguide?mode=dev"
+    },
+    {
+      name:"ThankYou",
+      description:
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/sivakumar599/Thakyou-page/tree/master",
+    },
+    {
+      name: "Rating",
+      description:
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/Sivasarangam123/webProjects/tree/master/src/components/StarRate",
+    },
+    {
+      name: "Rating",
+      description:
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/Sivasarangam123/webProjects/tree/master/src/components/StarRate",
+    },
+    {
+      name: "Rating",
+      description:
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/Sivasarangam123/webProjects/tree/master/src/components/StarRate",
+    },
+    {
+      name: "Rating",
+      description:
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/Sivasarangam123/webProjects/tree/master/src/components/StarRate",
+    },
+    {
+      name: "Rating",
+      description:
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/Sivasarangam123/webProjects/tree/master/src/components/StarRate",
     },
   ];
   
